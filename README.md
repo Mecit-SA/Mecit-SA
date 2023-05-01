@@ -11,7 +11,9 @@ I'm always eager to connect with other professionals in the industry and collabo
 Skills: 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,azure,visualstudio" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,azure,visualstudio" />
+  </a>
 </p>
 
 Contact:
