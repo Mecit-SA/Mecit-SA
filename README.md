@@ -8,7 +8,15 @@ When I'm not coding, I love spending time with my loved ones and exploring new f
 
 I'm always eager to connect with other professionals in the industry and collaborate on innovative projects that make a difference. Let's connect and see what we can achieve together!
 
-Skills: .NET Core / Angular / Clean Code / Unit Testing / Code Review
+Skills: 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,azure,visualstudio" />
+  </a>
+</p>
+
+.NET Core / Angular / Clean Code / Unit Testing / Code Review
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mecit-SA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mecit-sarıgüzel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mecit.sariguzel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mecit_sa/)  
 
