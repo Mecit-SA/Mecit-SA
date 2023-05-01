@@ -1,6 +1,7 @@
-# Hi there 👋
-## Full Stack Developer | Proficient in .NET & Angular
 ![Full Stack Developer | Proficient in .NET & Angular](https://media.licdn.com/dms/image/D4D16AQFEJYXoR8OCDw/profile-displaybackgroundimage-shrink_350_1400/0/1674993516164?e=1688601600&v=beta&t=y7bzCRcOVGLzJ4VX57u0LInJSjWOdQK0KOo1LinaLcg)
+
+# Hi there 👋 I'm Mecit
+## Full Stack Developer | Proficient in .NET & Angular
 
 Hi, I'm Mecit, a passionate software developer specializing in .NET and Angular. I've been working in the field since 2017 and enjoy taking on challenging projects to push my skills to the next level. Staying up-to-date with the latest tech trends and development methodologies is a top priority for me.
 
