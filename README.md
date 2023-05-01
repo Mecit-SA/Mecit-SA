@@ -1,4 +1,4 @@
-![Full Stack Developer | Proficient in .NET & Angular](https://media.licdn.com/dms/image/D4D16AQFEJYXoR8OCDw/profile-displaybackgroundimage-shrink_350_1400/0/1674993516164?e=1688601600&v=beta&t=y7bzCRcOVGLzJ4VX57u0LInJSjWOdQK0KOo1LinaLcg)
+![Full Stack Developer | Proficient in .NET & Angular](https://github.com/Mecit-SA/Mecit-SA/blob/main/cover.jpg?raw=true)
 
 # Hi there 👋 I'm Mecit
 ## Full Stack Developer | Proficient in .NET & Angular
