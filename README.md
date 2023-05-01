@@ -12,6 +12,4 @@ Skills: .NET Core / Angular / Clean Code / Unit Testing / Code Review
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mecit-SA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mecit-sarıgüzel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mecit.sariguzel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mecit_sa/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mecit-SA&show_icons=true&count_private=true)  
-
 ![Profile views](https://gpvc.arturio.dev/Mecit-SA)  
