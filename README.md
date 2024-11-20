@@ -23,7 +23,7 @@ I'm always eager to connect with other professionals in the industry and collabo
   <a target="_blank" href="https://www.linkedin.com/in/mecit-sar%C4%B1g%C3%BCzel/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a target="_blank" href="https://www.instagram.com/mecit_sa/">
+  <a target="_blank" href="https://www.instagram.com/mecit.codes/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
