@@ -26,6 +26,4 @@ I'm always eager to connect with other professionals in the industry and collabo
   <a target="_blank" href="https://www.instagram.com/mecit.codes/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-</p>
-
-![Profile views](https://gpvc.arturio.dev/Mecit-SA)  
+</p> 
