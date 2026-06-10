@@ -3,11 +3,8 @@
 # Hi there 👋 I'm Mecit
 ### Full Stack Developer | Proficient in .NET & Angular
 
-A passionate software developer specializing in .NET and Angular. I've been working in the field since 2017 and enjoy taking on challenging projects to push my skills to the next level. Staying up-to-date with the latest tech trends and development methodologies is a top priority for me.
-
-When I'm not coding, I love spending time with my loved ones and exploring new foods. I also enjoy watching videos relates to technology and software development.
-
-I'm always eager to connect with other professionals in the industry and collaborate on innovative projects that make a difference. Let's connect and see what we can achieve together!
+Passionate Full-Stack Engineer with a strong expertise in .NET/C# for backend, and Angular for frontend. Proven track record in developing scalable solutions for industries such as accounting, finance, healthcare, and manufacturing. 
+Skilled in microservices architecture, domain-driven design, and agile methodologies. Known for quick learning, good communication, collaboration, and mentoring skills.
 
 <h2>Skills</h2> 
 
